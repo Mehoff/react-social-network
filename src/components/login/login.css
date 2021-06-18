@@ -1,0 +1,133 @@
+input{
+    padding-top: 2px;
+}
+
+.form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 300px;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.login-title{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.login-label{
+    color: pink;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3) ;
+    text-align: left;
+    margin-right: 8px;
+}
+
+.reg-label{
+    color:rgba(255, 141, 141, 0.726);
+    font-size: 12px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.color-pink{
+    color:rgb(255, 141, 141);
+}
+
+.font-size-28{
+    font-size: 28px;
+}
+
+td{
+    text-align: left;
+    padding: 5px;
+}
+
+.login-input{
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid pink;
+    transition: 500ms;
+}
+.login-input:focus{
+    outline:none;
+    border-radius: 20px;
+    border: 2px solid red;
+}
+
+.reg-header{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color:rgba(255, 141, 141, 0.726);
+
+}
+
+.reg-input{
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid pink;
+    transition: 500ms;
+}
+.reg-input:focus{
+    outline:none;
+    border-radius: 20px;
+    border: 2px solid red;
+}
+
+.reg-select{
+    min-width: 170px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    border: 2px solid pink;
+    transition: 500ms;
+}
+
+.reg-input:focus{
+    outline:none;
+    border-radius: 20px;
+    border: 2px solid red;
+}
+
+#btn-login{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:white;
+
+    font-weight: 500;
+    text-align: center;
+    background-color: rgb(255, 141, 141);
+    padding: 10px;
+
+    width: fit-content;
+    min-width: 100px;
+
+    border: none;
+    border-radius: 25px;
+    transition: 250ms;
+}
+
+#btn-login:hover{
+    border-radius: 15px;
+    background-color: rgba(255, 141, 141, 0.726);
+}
+
+#btn-login:focus{
+    outline: none;
+    border-radius: 15px;
+    background-color: rgba(255, 141, 141, 0.726);
+}
+
+.login-selection-text{
+    font-size: 12px;
+    text-decoration: underline;
+    cursor: pointer;
+}

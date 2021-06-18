@@ -1,0 +1,72 @@
+[
+        {
+                "id" : 1,
+                "first_name" : "Матвей",
+                "second_name" : "Горелик",
+                "birth_date" : "12.03.2006",
+                "about" : "Работаю на таможне, инестирую в крипту, катаюсь на велосипеде",
+                "email" : "fortniteKing_2009@rambler.org",
+                "imgUri" : "https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/10346048_283766985154073_6122162790762947231_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=s1bfI7o_eZsAX-AZc_E&_nc_ht=scontent-iev1-1.xx&oh=65b99d4b0a9131943bec441284ee603b&oe=60963297",
+                "skills": ["Python","C++", "JS"]
+        },
+        {
+                "id" : 2,
+                "first_name" : "Матвей",
+                "second_name" : "Горелик",
+                "birth_date" : "12.03.2006",
+                "about" : "Работаю на таможне, инестирую в крипту, катаюсь на велосипеде",
+                "email" : "fortniteKing_2009@rambler.org",
+                "imgUri" : "https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/10346048_283766985154073_6122162790762947231_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=s1bfI7o_eZsAX-AZc_E&_nc_ht=scontent-iev1-1.xx&oh=65b99d4b0a9131943bec441284ee603b&oe=60963297",
+                "skills": ["Python","C++", "JS"]
+        },
+        {
+                "id" : 3,
+                "first_name" : "Матвей",
+                "second_name" : "Горелик",
+                "birth_date" : "12.03.2006",
+                "about" : "Работаю на таможне, инестирую в крипту, катаюсь на велосипеде",
+                "email" : "fortniteKing_2009@rambler.org",
+                "imgUri" : "https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/10346048_283766985154073_6122162790762947231_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=s1bfI7o_eZsAX-AZc_E&_nc_ht=scontent-iev1-1.xx&oh=65b99d4b0a9131943bec441284ee603b&oe=60963297",
+                "skills": ["Python","C++", "JS"]
+        },
+        {
+                "id" : 4,
+                "first_name" : "Матвей",
+                "second_name" : "Горелик",
+                "birth_date" : "12.03.2006",
+                "about" : "Работаю на таможне, инестирую в крипту, катаюсь на велосипеде",
+                "email" : "fortniteKing_2009@rambler.org",
+                "imgUri" : "https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/10346048_283766985154073_6122162790762947231_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=s1bfI7o_eZsAX-AZc_E&_nc_ht=scontent-iev1-1.xx&oh=65b99d4b0a9131943bec441284ee603b&oe=60963297",
+                "skills": ["Python","C++", "JS"]
+        },
+        {
+                "id" : 5,
+                "first_name" : "Матвей",
+                "second_name" : "Горелик",
+                "birth_date" : "12.03.2006",
+                "about" : "Работаю на таможне, инестирую в крипту, катаюсь на велосипеде. И еще раз обо мне: Работаю на таможне, инестирую в крипту, катаюсь на велосипеде.",
+                "email" : "fortniteKing_2009@rambler.org",
+                "imgUri" : "https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/10346048_283766985154073_6122162790762947231_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=s1bfI7o_eZsAX-AZc_E&_nc_ht=scontent-iev1-1.xx&oh=65b99d4b0a9131943bec441284ee603b&oe=60963297",
+                "skills": ["Python","C++", "JS"]
+        },
+        {
+                "id" : 6,
+                "first_name" : "Матвей",
+                "second_name" : "Горелик",
+                "birth_date" : "12.03.2006",
+                "about" : "Работаю на таможне, инестирую в крипту, катаюсь на велосипеде",
+                "email" : "fortniteKing_2009@rambler.org",
+                "imgUri" : "https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/10346048_283766985154073_6122162790762947231_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=s1bfI7o_eZsAX-AZc_E&_nc_ht=scontent-iev1-1.xx&oh=65b99d4b0a9131943bec441284ee603b&oe=60963297",
+                "skills": ["Python","C++", "JS"]
+        },
+        {
+                "id" : 7,
+                "first_name" : "Матвей",
+                "second_name" : "Горелик",
+                "birth_date" : "12.03.2006",
+                "about" : "Работаю на таможне, инестирую в крипту, катаюсь на велосипеде",
+                "email" : "fortniteKing_2009@rambler.org",
+                "imgUri" : "https://scontent-iev1-1.xx.fbcdn.net/v/t1.18169-9/10346048_283766985154073_6122162790762947231_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=s1bfI7o_eZsAX-AZc_E&_nc_ht=scontent-iev1-1.xx&oh=65b99d4b0a9131943bec441284ee603b&oe=60963297",
+                "skills": ["Python","C++", "JS"]
+        }
+]

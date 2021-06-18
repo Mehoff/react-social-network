@@ -1,0 +1,52 @@
+ul{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(255, 141, 141);
+}
+
+li{
+    float: right;
+    line-height: 21px;
+    min-width: 60px;
+    text-align: center;
+
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+
+    transition: 250ms;
+}
+
+li:hover{
+    background-color:rgb(185, 107, 107);
+    cursor: pointer;
+}
+a{
+    
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.logo{
+    color: red;
+}
+
+
+
+
+/* .active{
+
+} */
+/* Todo Add Class 'Selected' with CSS */
+
+
+
+
