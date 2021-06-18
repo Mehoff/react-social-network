@@ -8,22 +8,21 @@ class UsersList extends React.Component{
         super(props);
 
         this.state = {
-            // Pass here current user data
+            users: undefined
         }
     }
     async componentDidMount(){
         
         const res = await fetch('http://localhost:3001/users');
         const json = await res.json();
+
+        //Render вызывается столько раз, сколько пользователей в json
         this.setState({users: json})
         
     }
-    render(){
-
-        
+    render(){        
         console.log('render()')
         let {users} = this.state;
-
 
         let component = null;
 
@@ -31,22 +30,8 @@ class UsersList extends React.Component{
             return <h1>Загрузка пользователей...</h1>
         }
         else{
-
-            // Поптыка отчистить из всего списка пользователей - себя
-
-            let filtered = users.filter(function(value, index, arr){
-                return value.Id !== this.props.user.Id
-            })
-
-            // users = users.filter((user) => {
-            //     if(user.Id === 
-            //         this.state.user.Id){
-            //         return false
-            //     }
-            //     else return true;
-            // })
-
-            component = filtered.map((item) => {
+            users = users.filter(user => user.Id !== this.props.user.Id)
+            component = users.map((item) => {
                 return <User key={item.Id} data={item}/>
             })
         }

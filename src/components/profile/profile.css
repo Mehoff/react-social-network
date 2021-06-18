@@ -1,4 +1,15 @@
 
-h1{
-    color: black !important;
+.welcome-header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    text-shadow: 1px 1px 10px black;
+    color: white;
+    border-radius: 25px;
+    padding: 20px;
+    background-color: transparent;
+}
+
+.welcome-wrapper{
+    text-align: center;
+    margin-top: 20px;
 }

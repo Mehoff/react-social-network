@@ -1,0 +1,7 @@
+Сохранение логина (JWT, Куки или Хранилище)
+Настройки пользователя (Предпочитаемый пол, предпочитаемая вилка возраста (от x до y)), хранить отдельно в БД, создать таблицу UserSettings (UserFK ...)
+
+Component: Settings
+
+Подписки друг на друга (таблица Follows: Follower(userId) FollowTarget(userId))
+Component: Followers, Follows

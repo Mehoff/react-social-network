@@ -34,10 +34,18 @@ img{
     border-radius: 50%;
 }
 
-h1{
-    font-size: 28px;
+.user-fullname{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    /* color:rgba(255, 141, 141, 0.726) !important; */
+    color: white;
+    font-size: 22px;
+    text-shadow: 1px 1px 5px black;
 }
-h2{
+
+.user-email{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgba(255, 141, 141, 0.726) !important;
     font-size: 18px;
 }
 
